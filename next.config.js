@@ -4,5 +4,5 @@ const nextConfig = {
     domains: ["localhost", "https://img.clerk.com", "img.clerk.com"],
   },
 };
-h
+
 module.exports = nextConfig;
